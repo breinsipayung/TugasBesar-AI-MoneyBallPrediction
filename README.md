@@ -1,6 +1,6 @@
 # TugasBesar-AI-MoneyBallPrediction
 
-This Big Task used for the Lion King Group (CourseWork)
+This Big Task used for the Lion King Group (Course Work)
 
 In this task we (Lion King Group) are managed to predict the team,
 that will be the champion using Linear Regression.
@@ -13,3 +13,7 @@ that will be the champion using Linear Regression.
     - And visualize the data
 
 The final goal is to produce the best accuracy to predict the team that will be champion.
+
+
+
+Thank You. ❤

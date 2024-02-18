@@ -1,5 +1,5 @@
 # TugasBesar-AI-MoneyBallPrediction
-(COLLAGE ASSIGNMENT)
+(COLLEGE ASSIGNMENT)
 This Big Task used for the Lion King Group (Course Work)
 
 In this task we (Lion King Group) are managed to predict the team,
